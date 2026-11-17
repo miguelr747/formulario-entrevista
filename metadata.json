@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Diagnóstico Empresarial",
+  "description": "Plataforma integral para levantamiento de información empresarial, entrevistas dinámicas, diagnóstico logístico y análisis de procesos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
